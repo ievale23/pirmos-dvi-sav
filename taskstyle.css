@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+.first-div {
+    background-color: brown;
+}
+.second-div {
+    background-color: burlywood;
+}
+.third-div {
+    background-color: darkkhaki;
+}
+#heading {
+    color: rgb(80, 80, 80);
+}

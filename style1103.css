@@ -1,0 +1,76 @@
+.box1 {
+    /* background-color: coral; */
+    display: inline-block;
+    width: 55%;
+    vertical-align: top;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.box2 {
+    /* background-color: darkolivegreen; */
+    display: inline-block;
+    width: 40%;
+    border-style: groove;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  
+}
+
+.box1 img {
+    width: 25%;
+    padding: 10px;
+}
+
+.box2 img {
+    width: 100%;
+}
+
+.content2 {
+    padding: 20px;
+}
+
+/* dėstytojo sprendimas
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+body {
+    font-size: 0;
+}
+.friendly{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 50%;
+    font-size: 15px;
+    vertical-align: top;
+    height: 100vh;
+}
+.friendly:nth-child(2) div:nth-child(1){
+    padding: 100px 0;
+    background-color: grey;
+}
+.box-parent {
+    font-size: 0;
+    padding: 84px 0;
+}
+.box {
+    /*background-color: aqua;*/
+    display: inline-block;
+    width: 33.33%;
+    font-size: 15px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.inside-box-span {
+    border: 1px solid black;
+    text-align: center;
+    width: fit-content;
+}
+.inside-box-div {
+    width: fit-content;
+    margin: 0 auto;
+    border: 1px dotted black;
+} */

@@ -1,0 +1,66 @@
+.first-div {
+    background-color: darkgrey;
+    color: aliceblue;
+    padding: 10px;
+    font-family: Georgia;
+    text-align: center;
+    
+}
+.second-div {
+    background-color: blueviolet;
+    padding: 10px
+}
+.third-div {
+    background-color: brown;
+    padding: 10px
+}
+.second-first-div {
+    background-color: oldlace;
+    padding: 10px
+}
+.second-second-div {
+    background-color: yellow;
+    padding: 10px
+}
+.second-third-div {
+    background-color: blueviolet;
+    padding: 10px
+}
+.second-fourth-div {
+    background-color: yellow;
+    padding: 10px
+}
+.viens {
+    background-color: lightgreen;
+    padding: 10px;
+}
+.du {
+    background-color: teal;
+    padding: 10px;
+    height: 100px;
+    width: 70px;
+}
+#pirmas {
+    height: 200px;
+    width: 200px;
+}
+.orange {
+    background-color: brown;
+    padding: 10px;
+}
+
+.green {
+    background-color: green;
+    padding: 10px;
+    display: inline-block;
+}
+.lab {
+    background-color: brown;
+    padding: 10px;
+    width: 80px;
+}
+.dv {
+    background-color: yellow;
+    padding: 10px;
+    width: 80px;
+}

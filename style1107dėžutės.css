@@ -1,0 +1,55 @@
+/* .dg {
+    background-color: darkgrey;
+} */
+
+
+/* tas pirmas */
+/* .tiedu {
+    display: inline-block;
+    background-color: darkgray;
+    text-align: center;
+} */
+
+.background {
+    background-color: lightgray;
+    padding: 15px 20px;
+    font-size: 0;
+}
+
+.darkgrey {
+    background-color: darkgray;
+}
+
+.salia {
+    display: inline-block;
+    padding: 10px 0;
+}
+
+.text {
+    font-size: 15px;
+}
+
+.headban {
+    padding: 30px;
+    text-align: center;
+}
+
+.box {
+    width: 33%;
+    padding: 100px 0;
+    text-align: center;
+}
+
+/* trečio atskiri */
+
+.boxoh {
+    display: inline-block;
+}
+
+/* ketvirto atskiri */
+
+.boxyo {
+    display: inline-block;
+    width: 23%;
+    height: 100px;
+}
